@@ -23,7 +23,7 @@
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <br>
 
-###🔭 I’m currently working on 
+### 🔭 I’m currently working on 
      - Another blog post
      - 66daysofdata
      - WidgetWednesday
@@ -32,7 +32,7 @@
      - Being a god-level coder
 <br>
 
-###🌱 I’m currently learning 
+### 🌱 I’m currently learning 
      - Python and Backend Development 
      - Clean architecture in Flutter
 <br>
@@ -54,6 +54,7 @@
 <!-- BLOG-POST-LIST:END -->
 <br>
 
+### 📈 Github Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andisiambuku&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <br>
