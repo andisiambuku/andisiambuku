@@ -3,9 +3,10 @@
   <a href="https://andisiambuku.hashnode.dev/" target="_blank" rel="noreferrer"><img src="![Purple and Yellow Colorful Gradient Motivational Quote LinkedIn Article Cover Image (2)](https://user-images.githubusercontent.com/66791412/148061476-b11eb307-c62b-4c43-9a81-404d78767d1b.png)
 " alt="my banner"></a>
 </p>
-
+<br>
 
 <br>
+
 #  Hello, I am Andisi Ambuku 👋
 <br>
 
