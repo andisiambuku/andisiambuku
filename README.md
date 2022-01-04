@@ -1,11 +1,18 @@
-<img src ="images\Purple and Yellow Colorful Gradient Motivational Quote LinkedIn Article Cover Image (2).png"/>
+
+<p>
+  <a href="https://andisiambuku.hashnode.dev/" target="_blank" rel="noreferrer"><img src="![Purple and Yellow Colorful Gradient Motivational Quote LinkedIn Article Cover Image (2)](https://user-images.githubusercontent.com/66791412/148061476-b11eb307-c62b-4c43-9a81-404d78767d1b.png)
+" alt="my banner"></a>
+</p>
+
 
 <br>
-# Hello, I am Andisi Ambuku 👋
+#  Hello, I am Andisi Ambuku 👋
 <br>
-##I am working at being a world - class problem solver using code
+
+##  I am working at being a world - class problem solver using code
 <br>
-###💼 Technical Skills
+
+### 💼 Technical Skills
 <br>
      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>  
      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -17,8 +24,8 @@
 
 ###🔭 I’m currently working on 
      - Another blog post
-     - #66daysofdata
-     - #WidgetWednesday
+     - 66daysofdata
+     - WidgetWednesday
      - Final year project
      - My skills
      - Being a god-level coder
