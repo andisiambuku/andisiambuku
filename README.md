@@ -10,7 +10,7 @@
 #  Hello, I am Andisi Ambuku 👋
 <br>
 
-##  I am working at being a world - class problem solver using code
+## I am working at being a world - class problem solver using code 💻
 <br>
 
 ### 💼 Technical Skills
