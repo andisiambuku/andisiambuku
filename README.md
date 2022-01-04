@@ -1,6 +1,6 @@
 
 <p>
-  <a href="https://andisiambuku.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/66791412/148061476-b11eb307-c62b-4c43-9a81-404d78767d1b.png" alt="my banner"></a>
+  <a href="https://andisiambuku.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/66791412/148089591-988c8219-250f-4c0b-940c-61d2765d90af.png" alt="my banner" ></a>
 </p>
 
 <br>
