@@ -6,12 +6,11 @@
 <br>
 
 #  Hello, I am Andisi Ambuku 👋
-<br>
 
 ## I am working at being a world - class problem solver using code 💻
 <br>
 
-### 💼 Technical Skills
+<!-- ### 💼 Technical Skills
 <br>
      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> 
      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> 
@@ -19,23 +18,15 @@
      <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
      <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
-<br>
+<br> -->
 
 ### 🔭 I’m currently working on improving my skillset
-<br>
-
 ### 🌱 I’m currently learning Python and Backend Development 
-<br>
-      
 ### 🤔 I’m looking for help with Mentorship and Career advice
 <br>
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
- Coming Soon
-<!-- BLOG-POST-LIST:END -->
-<br>
+<!-- ### 📕 Latest Blog Posts
+<br> -->
 
 ### 📈 Github Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andisiambuku&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
