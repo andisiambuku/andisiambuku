@@ -21,28 +21,13 @@
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
 <br>
 
-### 🔭 I’m currently working on 
-     - Another blog post
-     - 66daysofdata
-     - WidgetWednesday
-     - Final year project
-     - My skills
-     - Being a god-level coder
+### 🔭 I’m currently working on improving my skillset
 <br>
 
-### 🌱 I’m currently learning 
-     - Python and Backend Development 
-     - Clean architecture in Flutter
+### 🌱 I’m currently learning Python and Backend Development 
 <br>
       
-### 🤔 I’m looking for help with
-     - Mentorship 
-     - Career advice
-<br>
-
-### 🥅 2022 Goals:
-    - To kickstart my tech career
-    - To be apart of vibrant tech communities
+### 🤔 I’m looking for help with Mentorship and Career advice
 <br>
 
 ### 📕 Latest Blog Posts
