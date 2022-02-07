@@ -21,7 +21,7 @@
 <br> -->
 
 ### 🔭 I’m currently working on improving my skillset
-### 🌱 I’m currently learning Python and Backend Development 
+### 🌱 I’m currently learning Data Science and Web Development
 ### 🤔 I’m looking for help with Mentorship and Career advice
 <br>
 
