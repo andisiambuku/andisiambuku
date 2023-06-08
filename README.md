@@ -8,14 +8,14 @@
 #  Hello, I am Andisi (Roseland) Ambuku 👋
 ## I am working at being a world-class problem solver using code 💻
 
-### 💼 Technical Skills
+### 💼 Technical Skills:
 -  #### Ruby, JavaScript/ Typescript <br>
 -  #### Frontend: React <br>
 -  #### Mobile: React Native <br>
 -  #### Backend: Ruby on Rails and Node JS => Express JS && Nest JS
 <br>
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts:
 #### You can read my technical articles on:<br>
 <a href="https://andisiambuku.hashnode.dev/"><img src ="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 <a href="https://dev.to/andisiambuku"><img src ="https://img.shields.io/badge/Dev.To-000000?style=for-the-badge&logo=Dev.To&logoColor=white"></a>
@@ -26,6 +26,6 @@
 <a href="https://www.linkedin.com/in/roseland-ambuku/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br>
 
-### 📫 Contact: ...
+### 📫 Contact:
 <a href="mailto:roselandambuku@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br>
