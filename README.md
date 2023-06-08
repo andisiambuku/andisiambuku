@@ -16,7 +16,7 @@
 <br>
 
 ### 📕 Latest Blog Posts
-You can read my technical articles on:<br>
+#### You can read my technical articles on:<br>
 <a href="https://andisiambuku.hashnode.dev/"><img src ="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 <a href="https://dev.to/andisiambuku"><img src ="https://img.shields.io/badge/Dev.To-000000?style=for-the-badge&logo=Dev.To&logoColor=white"></a>
 <br>
@@ -26,6 +26,6 @@ You can read my technical articles on:<br>
 <a href="https://www.linkedin.com/in/roseland-ambuku/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br>
 
-### 📫 If you have any feedback do not hesitate to reach out to me: ...
+### 📫 Contact: ...
 <a href="mailto:roselandambuku@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br>
