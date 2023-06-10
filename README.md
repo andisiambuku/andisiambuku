@@ -6,7 +6,7 @@
 <br>
 
 #  Hello, I am Andisi (Roseland) Ambuku 👋
-## I am working at being a world-class problem solver using code 💻
+## I am working towards being a world-class problem solver using code 💻
 
 ### 💼 Technical Skills:
 -  #### Ruby, JavaScript/ Typescript <br>
