@@ -5,15 +5,7 @@
  -->
 <br>
 
-#  Hello, I am Andisi (Roseland) Ambuku 👋
-## I am working towards being a world-class problem solver using code 💻
-
-### 💼 Technical Skills:
--  #### Ruby, JavaScript/ Typescript <br>
--  #### Frontend: React <br>
--  #### Mobile: React Native <br>
--  #### Backend: Ruby on Rails and Node JS => Express JS && Nest JS
-<br>
+Hi👋🏾! I'm a software developer and technical writer. 
 
 ### 📕 Latest Blog Posts:
 #### You can read my technical articles on:<br>
