@@ -5,7 +5,26 @@
  -->
 <br>
 
-Hi👋🏾! I'm a software developer and technical writer. 
+# Hi there, I'm Andisi Ambuku! 👋
+
+Welcome to my GitHub profile! I'm a passionate software developer interested in web development, open-source contributions, and continuous learning.
+
+## 🔧 Technologies & Tools
+- **Languages:** JavaScript, Python, 
+- **Web Development:** HTML, CSS, React, Node.js, Express, Nest JS
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Version Control:** Git, GitHub
+- **Tools:** VS Code, Docker, Kubernetes
+
+## 🌱 Currently Learning
+- Advanced React and Redux
+- Cloud Computing with AWS
+- DevOps and System Maintainance
+
+## 👯 Looking to Collaborate On
+- Open-source projects
+- Innovative web applications
+- Learning resources and tutorials
 
 ### 📕 Latest Blog Posts:
 #### You can read my technical articles on:<br>
