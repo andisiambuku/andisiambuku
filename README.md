@@ -5,7 +5,7 @@
  -->
 <br>
 
-# Hi there, I'm Andisi Ambuku! 👋
+# Hi there👋
 
 Welcome to my GitHub profile! I'm a passionate software developer interested in web development, open-source contributions, and continuous learning.
 
